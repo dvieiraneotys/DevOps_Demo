@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=DevOps
+project.version=6.5
+project.original.version=4.2
+product.name=NeoLoad
+product.original.name=
+product.original.version=
+project.id=0a65cb0c-9dbd-4929-8cf1-4eb7b984d67f
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=/dvieiraneotys/DevOps_Demo
